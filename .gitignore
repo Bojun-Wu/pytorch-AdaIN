@@ -4,3 +4,29 @@ output/*
 .idea
 experiments/*
 logs/*
+
+# Local environments, Python caches and editor/system files.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.vscode/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+
+# Local experiment outputs. Publish only the compact, documented result set.
+/guard_results/
+/guard_smoke/
+/guard_experiment_smoke/
+/guard_run*/
+/guard_experiment/*
+!/guard_experiment/*.md
+!/guard_experiment/*.csv
+!/guard_experiment/*.json
+!/guard_experiment/*.svg
+!/guard_experiment/example_*.jpg

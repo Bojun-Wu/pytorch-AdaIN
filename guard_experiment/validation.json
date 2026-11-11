@@ -1,0 +1,11 @@
+{
+  "complete": true,
+  "rows": 2880,
+  "sequences": 144,
+  "expected_png_checkpoints": 576,
+  "raw_images_verified": true,
+  "unique_sequence_rounds": true,
+  "finite_metrics": true,
+  "disjoint_photos_and_styles": true,
+  "analyzer_sha256": "ed8d5daee21f6596ef7d9cbce19e06d07bc5a16af2612a9082b10e7c01275359"
+}

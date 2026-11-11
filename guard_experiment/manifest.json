@@ -1,0 +1,52 @@
+{
+  "arguments": {
+    "output": "guard_experiment",
+    "size": 192,
+    "rounds": 20,
+    "alpha": 0.75,
+    "threads": 4,
+    "device": "cpu",
+    "smoke": false
+  },
+  "torch": "2.15.0+cpu",
+  "python": "3.14.9 | packaged by Anaconda, Inc. | (main, Oct 23 2026, 01:07:17) [MSC v.1942 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "calibration_content": [
+    "modern",
+    "avril"
+  ],
+  "calibration_style": [
+    "mondrian",
+    "woman_with_hat_matisse"
+  ],
+  "test_content": [
+    "cornell",
+    "newyork",
+    "golden_gate",
+    "flowers",
+    "brad_pitt",
+    "blonde_girl"
+  ],
+  "test_style": [
+    "brushstrokes",
+    "asheville",
+    "picasso_self_portrait",
+    "the_resevoir_at_poitiers"
+  ],
+  "methods": [
+    "no_guard",
+    "low_alpha",
+    "fixed_blend",
+    "adaptive_blend",
+    "fixed_hf",
+    "adaptive_hf"
+  ],
+  "checkpoints": {
+    "decoder.pth": "379ca41d59f3a37eed3599bbbc2560c19da5c458870a5ffd3a9dd41aa88f9472",
+    "vgg_normalised.pth": "804ca2835ecf7539f0cd2a7ac3c18ce81e6f8468969ae7117ac0c148d286bb4a"
+  },
+  "execution_code_sha256": "d0f012b139e811dafcef72133a0a6133ab69a96f743f86f995bcf3a650209ff1",
+  "scope": "One fixed style per pair; six retained methods; existing inference measurements retained without modification.",
+  "measurement_records_sha256": "b1c1235b909adba478c785f0b2d2830decaee75176aed72bae05473e13cf8467",
+  "runner_after_cleanup_sha256": "f7eec2a2add21df40e074e34eb357aed275ac4c0c3fd95fac2ec07804cd6eef2"
+}

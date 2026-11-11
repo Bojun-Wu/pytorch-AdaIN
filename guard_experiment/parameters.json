@@ -1,0 +1,23 @@
+{
+  "selected": {
+    "retention": 0.8,
+    "beta_max": 0.6,
+    "gain": 2.0,
+    "fixed_beta": 0.1
+  },
+  "selection_scores": [
+    [
+      0.0,
+      0.6
+    ],
+    [
+      -0.11556001044061423,
+      0.8
+    ],
+    [
+      0.3098460116867978,
+      0.95
+    ]
+  ],
+  "objective": "mean(log(content_loss/no_guard)+log(style_loss/no_guard)), both adaptive methods, round 10"
+}

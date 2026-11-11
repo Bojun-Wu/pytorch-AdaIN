@@ -1,0 +1,114 @@
+[
+  {
+    "path": "input/content/modern.jpg",
+    "sha256": "560f101ac19c80e79080dd792656fbd5f6853b6e23417bc033bc4dfc102d21a5",
+    "original_size": [
+      564,
+      564
+    ]
+  },
+  {
+    "path": "input/content/avril.jpg",
+    "sha256": "0dd67b83997ae383b7761f9b81916d160796401db879954c9c1dc761f5d54bec",
+    "original_size": [
+      1680,
+      1050
+    ]
+  },
+  {
+    "path": "input/content/cornell.jpg",
+    "sha256": "ee78ed68142dacdff8ee474ff6d15a1ae008f67bea6d541e6be240f3a4547091",
+    "original_size": [
+      729,
+      512
+    ]
+  },
+  {
+    "path": "input/content/newyork.jpg",
+    "sha256": "078151e41de82a439fc212e237917e45d67092d49ca8b52b6680d3a5dbae22e6",
+    "original_size": [
+      1120,
+      704
+    ]
+  },
+  {
+    "path": "input/content/golden_gate.jpg",
+    "sha256": "1f8e27d6252377f55107e02dfcf8dc55437724f535ce479358e6887017abf2cd",
+    "original_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "path": "input/content/flowers.jpg",
+    "sha256": "adb5b7cfc05437eb4c25f686c607d0a20d9aa971391f2feb1ff19e4080897564",
+    "original_size": [
+      640,
+      427
+    ]
+  },
+  {
+    "path": "input/content/brad_pitt.jpg",
+    "sha256": "d94d6c024ece26e9f2550f75863a34bb16dab94e7962d54946607909abc90798",
+    "original_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "path": "input/content/blonde_girl.jpg",
+    "sha256": "0adc3f6f4f30a204d327fdd215282135e84ceca99b8f9039b8638b5809849048",
+    "original_size": [
+      600,
+      800
+    ]
+  },
+  {
+    "path": "input/style/mondrian.jpg",
+    "sha256": "b3f228ad1dfa21ed368451a08af372640b2fc062597d47688fffbd06f3c82b0f",
+    "original_size": [
+      902,
+      825
+    ]
+  },
+  {
+    "path": "input/style/woman_with_hat_matisse.jpg",
+    "sha256": "6a8b2383d9c110354a97a42c74bdcc5341be879cbb842ddb7ab5843dbdf56d53",
+    "original_size": [
+      591,
+      800
+    ]
+  },
+  {
+    "path": "input/style/brushstrokes.jpg",
+    "sha256": "58ab5cf9fb3e97240f0107a17614b30da1ed6f89a5399e0d59831aa79d749100",
+    "original_size": [
+      933,
+      700
+    ]
+  },
+  {
+    "path": "input/style/asheville.jpg",
+    "sha256": "0abe464688b27c932ae4aa93e4933ed37e1d465765b3f68bf2efeaefa2670f5d",
+    "original_size": [
+      1000,
+      795
+    ]
+  },
+  {
+    "path": "input/style/picasso_self_portrait.jpg",
+    "sha256": "bc69786e510e41242aa22fcd4044b9d4b6829ed2b61fac09c1c688ffadfbde2a",
+    "original_size": [
+      597,
+      766
+    ]
+  },
+  {
+    "path": "input/style/the_resevoir_at_poitiers.jpg",
+    "sha256": "58f6e233125f49d28fd35c17e6b10ca09992c1db0e8169b631998a8c615eb0c0",
+    "original_size": [
+      800,
+      662
+    ]
+  }
+]
